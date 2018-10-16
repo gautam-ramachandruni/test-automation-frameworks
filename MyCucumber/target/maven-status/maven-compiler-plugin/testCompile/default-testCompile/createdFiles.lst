@@ -1,0 +1,17 @@
+com\mindtree\testrunner\AmazonTestRunner.class
+com\mindtree\uistore\AmazonHomePageUI.class
+com\mindtree\pageobjects\AmazonHomePagePageObjects.class
+com\mindtree\uistore\AmazonLoginPageUI.class
+com\mindtree\pageobjects\AmazonLogOutPagePageObjects.class
+com\mindtree\utilities\OpenCucumberReport.class
+com\mindtree\utilities\ExcelUtils.class
+com\mindtree\executionclasses\Amazon.class
+com\mindtree\reusablecomponents\ReusableComponents.class
+com\mindtree\utilities\Logging.class
+com\mindtree\utilities\ResponsiveWebDesign.class
+com\mindtree\uistore\AmazonProductPageUI.class
+com\mindtree\pageobjects\AmazonLoginPagePageObjects.class
+com\mindtree\reusablecomponents\BaseClass.class
+com\mindtree\utilities\ConfigFileReader.class
+com\mindtree\utilities\FileUtils.class
+com\mindtree\stepdefinitions\AmazonTestSteps.class
